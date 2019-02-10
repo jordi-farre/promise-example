@@ -1,0 +1,7 @@
+{
+  "name": "promise-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jordi Farre <jordi.farre@mango.com>",
+  "license": "MIT"
+}
